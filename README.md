@@ -1,5 +1,5 @@
 # ResetNIC
-Resets a specified network adapter at random in a Windows
+Resets a specified network adapter at random in  Windows
 
 Usage:  
   ResetAdapter.bat "Ethernet"  
